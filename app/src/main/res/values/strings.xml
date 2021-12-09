@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="fab_adicionar">Botão de Adição de Aluno</string>
+    <string name="hintEditNome">Nome</string>
+    <string name="hintEditTelefone">Telefone</string>
+    <string name="hintEditEmail">Email</string>
+    <string name="itemMenuSalvar">Salvar</string>
+    <string name="itemMenuRemover">Remover</string>
+</resources>
